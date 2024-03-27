@@ -1,0 +1,51 @@
+HELLO-WORLD                            
+
+Program terminated successfully
+IC = 3	Toggle: 0	TLC: 1	TTC: 4	TTL5	TLL2	JobId: 1
+	H	 	 
+Program Terminated abnormally
+Invalid Page Fault
+
+IC = 2	Toggle: 0	TLC: 0	TTC: 3	TTL6	TLL1	JobId: 2
+	L	R	3
+Program Terminated abnormally
+Operation Code Error
+
+IC = 6	Toggle: 0	TLC: 0	TTC: 10	TTL: 14	TLL: 3	JobId: 3
+	C
+
+
+	O
+
+
+	2
+
+
+
+Program Terminated abnormally
+Time Limit Exceeded
+
+IC = 3	Toggle: 0	TLC: 0	TTC: 6	TTL: 4	TLL: 1	JobId: 4
+	G	D	3
+Program Terminated abnormally
+Invalid Page Fault
+
+IC = 2	Toggle: 0	TLC: 1	TTC: 3	TTL19	TLL1	JobId: 5
+	P	D	5HELLO-WORLD                            
+
+Program Terminated abnormally
+Line Limit Exceeded
+
+IC = 3	Toggle: 0	TLC: 2	TTC: 4	TTL5	TLL1	JobId: 6
+	P	D	1
+Program Terminated abnormally
+Out of Data
+
+IC = 1	Toggle: 0	TLC: 0	TTC: 2	TTL6	TLL1	JobId: 7
+	G	D	1
+Program Terminated abnormally
+Operand Error
+
+IC = 0	Toggle: 0	TLC: 0	TTC: 0	TTL: 17	TLL: 7	JobId: 9
+	G	D	1IC = 1	Toggle: 0	TLC: 0	TTC: 2	TTL17	TLL7	JobId: 9
+	G	D	2
